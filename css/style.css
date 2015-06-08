@@ -1,0 +1,5 @@
+body {color: red; font-family: Verdana, sans-serif;}
+body ol li {color: rgba(80, 80, 80, 1); font-family: Verdana, sans-serif; font-size: 1em;}
+body ol li a {color: rgba(60, 60, 60, 1); font-family: Verdana, sans-serif; font-size: 1em; text-decoration: none; font-weight: 800;}
+body ol li a:hover {color: rgba(0, 3, 91, 0.8); font-family: Verdana, sans-serif; font-size: 1em;}
+body ol li code {color: rgba(48, 48, 48, 1); font-family: Arial, serif; font-size: .8em; font-weight: 600; font-style: italic;}
